@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GestionStock", "GestionStock\GestionStock.csproj", "{0A5E43F2-5EC7-4AC7-96C9-E55C5D682C66}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "TranTristanGestionMatosSetup", "TranTristanGestionMatosSetup\TranTristanGestionMatosSetup.vdproj", "{6B5A100D-A290-4699-BC4C-9B35A35A5007}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A5E43F2-5EC7-4AC7-96C9-E55C5D682C66}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{0A5E43F2-5EC7-4AC7-96C9-E55C5D682C66}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{0A5E43F2-5EC7-4AC7-96C9-E55C5D682C66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A5E43F2-5EC7-4AC7-96C9-E55C5D682C66}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B5A100D-A290-4699-BC4C-9B35A35A5007}.Debug|Any CPU.ActiveCfg = Release
+		{6B5A100D-A290-4699-BC4C-9B35A35A5007}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8F0CA022-84E5-4EF7-8285-DEBFB5570E35}
+	EndGlobalSection
+EndGlobal
