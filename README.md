@@ -1,7 +1,7 @@
 # GestionStock
 Projet PPE2 BTS SIO 
 
-### Le projet est fourni avec un dossier contenant le setup d'installation ainsi que la base de donnée et la documentation d'utilisation
+### Le projet est fourni avec un dossier (dossier PPE) contenant le setup d'installation ainsi que la base de donnée et la documentation d'utilisation
 
 <br />
 
