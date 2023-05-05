@@ -1,7 +1,7 @@
 # GestionStock
 Projet PPE2 BTS SIO 
 
-### Le projet est fourni avec un dossier (dossier PPE) contenant le setup d'installation ainsi que la base de donnée.
+### Le projet est fourni avec un dossier (dossier PPE) contenant la base de donnée et le mcd du projet
 
 <br />
 
@@ -47,4 +47,27 @@ Projet PPE2 BTS SIO
 
 8 – Une fois cela fait vous pouvez quitter l’application et revenir dans le dossier, cliquez sur TranTristanGestionMatosSetup et installez le logiciel
 
-Voilà votre logiciel est prêt à l’emploi !
+### Voilà votre logiciel est prêt à l’emploi !
+
+<br />
+<br />
+
+# Génération du setup d'installation :
+
+### Une fois le projet cloné sur votre visual studio et vos modifications faites, le projet vous donne la possibilité de générer votre setup d'installation
+
+<br />
+
+1 – Dans votre explorateur de solutions, cherchez ceci : ![image](https://user-images.githubusercontent.com/101406623/236451167-947ca586-0c5e-4018-a711-ae8d09319692.png)
+
+2 – Faites un clic droit et sélectionnez "Générer" 
+
+ > **La génération du setup peut prendre un petit moment... »**
+ 
+3 - Une fois la génération terminée, allez dans votre explorateur de fichier
+
+4 - Allez dans votre dossier du projet cloné et sélectionnez le dossier "TranTristanGestionMatosSetup"
+
+5 - Sélectionnez le dossier "Release" et le setup sera présent
+
+### Vous pouvez maintenant accéder au setup pour le déplacer dans des dossiers, le copier ou l'exécuter
