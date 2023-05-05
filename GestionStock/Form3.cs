@@ -31,9 +31,10 @@ namespace GestionStock
 
         public void datafill()
         {
-            string ClientSql = "SELECT * FROM Client";
+            string ClientSql = "GetClients";
             SqlDataAdapter sqlDa = new SqlDataAdapter(ClientSql, bd);
             DataTable dttb = new DataTable();
+            sqlDa.SelectCommand.CommandType = CommandType.StoredProcedure;
             sqlDa.Fill(dttb);
             dataGridView1.DataSource = dttb;
         }

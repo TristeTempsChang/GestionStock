@@ -16,7 +16,7 @@ namespace GestionStock
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Demarrage()); 
+            Application.Run(new Form1()); 
         }
     }
 }
